@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.17)
 set(CMAKE_CXX_STANDARD 17)
 project(boost_ext)
-include_directories(src)
-add_subdirectory(src)
+include_directories(boost_ext)
+add_subdirectory(boost_ext)
 add_subdirectory(unittest)
