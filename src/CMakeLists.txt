@@ -1,0 +1,1 @@
+add_library(bitset_ext dynamic_bitset_ext.cpp)
