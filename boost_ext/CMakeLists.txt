@@ -1,1 +1,2 @@
 add_library(bitset_ext dynamic_bitset_ext.cpp)
+target_link_libraries(bitset_ext)
